@@ -1,6 +1,6 @@
-# Child Coordinator
+# Track My Kid
 
-Child Coordinator is an application that allows parents to organize certain aspects of their children's lives. These functionalities include setting their homework and sending an e-mail to their school when they are away. 
+Track My Kidr is an application that allows parents to organize certain aspects of their children's lives. These functionalities include setting their homework and sending an e-mail to their school when they are away. 
 
 ## How to use the application
 
