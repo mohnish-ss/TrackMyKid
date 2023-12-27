@@ -1,4 +1,4 @@
-Pass: Ms@12345
+Pass: Password@12345
 Email: shethmohnish@gmail.com
 Name: Mohnish
 Grade: 12
