@@ -1,0 +1,7 @@
+Pass: Ms@12345
+Email: shethmohnish@gmail.com
+Name: Mohnish
+Grade: 12
+School: EOM
+Homeroom: Ms. Torres
+Attendance: shethmohnish@gmail.com
