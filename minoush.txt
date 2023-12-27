@@ -1,7 +1,7 @@
 Pass: Password@12345
 Email: shethmohnish@gmail.com
 Name: Mohnish
-Grade: 12
-School: EOM
-Homeroom: Ms. Torres
+Grade: Grade
+School: School
+Homeroom: Ms. Teacher
 Attendance: shethmohnish@gmail.com
