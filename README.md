@@ -10,7 +10,3 @@ To use the app, the user must sign-in to an existing account from the start scre
 
 Sending an e-mail to the school requires the user to input the school's attendance e-mail when they add their respective child. After this, they can choose one of the three options of "sick", "doctor", or "sport" for which the e-mail template is premade. Before the e-mail itself is sent, the user can edit the e-mail to include additional information. The user does not need to enter any additional password/e-mail information for this.
 
-## Final notes
-
-For any questions please e-mail shethmohnish@gmail.com.
-
